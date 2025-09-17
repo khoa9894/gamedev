@@ -1,2 +1,2 @@
 # Game Programming Assignment
-Assignment for Game Programming, Semester 232
+Assignment for Game Programming, Semester 241
